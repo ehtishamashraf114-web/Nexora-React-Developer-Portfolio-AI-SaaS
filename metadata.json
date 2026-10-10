@@ -1,0 +1,6 @@
+{
+  "name": "Nexora — React Developer Portfolio & AI SaaS Dashboard",
+  "description": "Premium React developer portfolio showcasing production web applications, interactive AI SaaS analytics dashboard, and modern frontend engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
